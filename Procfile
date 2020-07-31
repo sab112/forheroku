@@ -1,1 +1,1 @@
-web: python3 ampr.py
+web: gunicorn app:app --log-file=-
