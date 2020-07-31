@@ -1,1 +1,1 @@
-web: python ampr.py
+woker: python ampr.py
