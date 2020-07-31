@@ -1,1 +1,1 @@
-web: python3 ampr.py
+worker: python3 ampr.py
