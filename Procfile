@@ -1,1 +1,1 @@
-web: python ampr.py
+web: python mainfile.py
